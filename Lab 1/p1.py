@@ -1,5 +1,6 @@
 isnum = False
 num = ['0']*4
+
 while isnum == False :
   s = input('Please input the first number:')
   try:
